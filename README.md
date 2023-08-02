@@ -8,8 +8,7 @@ Shopify is a user-friendly shopping app that brings a wide range of products rig
 
 - Sign up: New users can easily create an account by providing their email and password. They can also sign up using their Google or Facebook accounts.
 - Login: Existing users can log in to the app using their registered credentials or their Google/Facebook accounts.
-
-![SignUp](https://github.com/Prateek-Gahlot/Shopify/assets/141181732/628c78d8-7b90-471a-945b-48f38973d066)
+<img width="330" alt="bmi1" src="https://github.com/Prateek-Gahlot/Shopify/assets/141181732/628c78d8-7b90-471a-945b-48f38973d066">
 ![Login](https://github.com/Prateek-Gahlot/Shopify/assets/141181732/efd2c94b-a94f-4d64-96bb-b9c55f36d92f)
 
 **Product Listing:**
